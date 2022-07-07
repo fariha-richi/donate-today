@@ -1,0 +1,184 @@
+.header{
+    background-image: url('donation9.jpg');
+    background-repeat: no-repeat;  
+    background-size: cover;
+    background-position: center top;
+    padding-top: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+  }
+  .flex-container{
+    color:black;
+    width: 200px;
+    height: 50px;
+    border:2px; 
+    border-radius: 5px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    gap: 50px;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+}
+#amount2{
+    background-color: antiquewhite;
+    text:red;
+    text-align: center;
+    border-radius: 5px;
+    border-style: solid;
+    border: 5px;
+    padding-left: 25px;
+    padding-right: 20px;
+}
+          .header h1{
+              color: aliceblue;
+              font-size: 100px;
+              text-align: center;
+              font-family: 'Roboto', sans-serif;
+          }
+          .header p{
+              color:aqua;
+              font-size: 35px;
+              text-align: center;
+              font-family: 'Arima', cursive;
+          }
+          button{
+              color:whitesmoke;
+              background-color: red;
+              font-size: 35px;
+              text-align: center;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              border-radius: 10px;
+              position: absolute;
+              text-decoration: none;
+              padding: 10px 40px;
+              border-style: none;
+            left: 45%;
+          }
+          .donate h1{
+            color: black;
+              font-size: 50px;
+              text-align: center;
+              font-family: 'Roboto', sans-serif;
+          }
+          .donate p{
+            color:grey;
+              font-size: 25px;
+              text-align: center;
+              font-family: 'Arima', cursive;
+          }
+          #tk{
+            border: 5px;
+            text-align: center;
+            padding-left: 30%;
+          }
+          .help h1{
+            color: black;
+              font-size: 50px;
+              text:red;
+              text-align: left;
+              font-family: 'Roboto', sans-serif;
+          }
+          .help p{
+            color:black;
+              font-size: 20px;
+              text-align: left;
+              font-family: 'Arima', cursive;
+          }
+          .help{
+            display: flex;
+            width: 100%;
+            padding-top: 80px;
+    padding-bottom: 100px;
+          }
+          .help img{
+            width: 80%;
+          }
+          input{
+            border: none;
+            font-size: 50px;
+            border-bottom: 5px;
+          }
+          .plan{
+            width: 100%;
+            padding-top: 80px;
+    padding-bottom: 100px;
+    text-align: center;
+          }
+          .plan h1{
+            color: black;
+              font-size: 50px;
+              font-family: 'Roboto', sans-serif;
+          }
+          .plan p{
+            color:black;
+              font-size: 20px;
+              font-family: 'Arima', cursive;
+          }
+          .plans-area{
+            display: flex;
+            text-align: left;
+            width: 95%;
+            gap: 25px;
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+          }
+          .plans-area h1{
+            color: black;
+              font-size: 25px;
+              font-family: 'Roboto', sans-serif;
+          }
+          .plans-area p{
+            color:black;
+            font-size: 15px;
+            font-family: 'Arima', cursive; 
+          }
+          #support1{
+            background-color:aquamarine;
+          }
+          #support2{
+            background-color:burlywood;
+          }
+          #support3{
+            background-color:gold;
+          }
+          .form{
+            text-align: center;
+            width: 95%;
+            gap: 25px;
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+          }
+          .form h1{
+            color: black;
+              font-size: 25px;
+              font-family: 'Roboto', sans-serif;
+          }
+          .form p{
+            color:black;
+            font-size: 15px;
+            font-family: 'Arima', cursive; 
+          }
+          #subscribe{
+            color: aliceblue;
+            background-color: red;
+            text-align: center;
+            padding-left: 50px;
+            padding-right: 50px;
+            border: 2px;
+          }
+          footer p{
+            background-color: black;
+            text-align: center;
+            color: wheat;
+            font-size: 18px;
+          }
